@@ -2,7 +2,7 @@
 
 A foundational machine learning repository implementing core algorithms from scratch using Python and NumPy. The main goal of this project is to build a deep understanding of the mathematical intuition, optimization techniques, and learning process behind machine learning models without relying on high-level libraries like scikit-learn.
 
-This repository focuses on learning *how things work under the hood*, not just how to use them.
+This repository focuses on learning how things work under the hood*, not just how to use them.
 
 ---
 
